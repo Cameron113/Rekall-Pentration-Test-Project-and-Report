@@ -26,7 +26,6 @@ Rekall is about to go live with their business, and they need penetration tester
 Rekall has a brand new web application and several Windows and Linux servers that manage their businesses.
 You are tasked with using the offensive security skills that you’ve learned over the last couple of weeks to find any vulnerabilities in Rekall’s technical infrastructure and summarize the appropriate mitigations.
 As you go through this week’s activities, be sure to update this penetration testing summary report, which you’ll submit upon completion of Project 2.
-    Cybersecurity
    
     
     
@@ -45,7 +44,6 @@ As you work through the project, remember to continue completing your required d
 
 
 
-    Cybersecurity
 Day 3 Activity Guide
 
 
